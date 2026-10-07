@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic-settings
+sqlalchemy
+pdfplumber
+chromadb
+python-multipart
+google-genai
+streamlit
